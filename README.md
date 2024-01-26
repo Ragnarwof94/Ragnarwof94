@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ragnarwof94
-- 👀 I'm interested in exploring new technologies and diving into the world of full-stack development with JavaScript and Python.
+- 👀 I'm interested in exploring new technologies and diving into the world of full-stack development with JavaScript, SQL and Python.
 - 🌱 Currently, I'm learning full-stack JavaScript and Python to build dynamic and robust web applications.
 - 💞️ I'm looking to collaborate on open-source projects and connect with fellow developers passionate about full-stack development.
 - 📫 How to reach me. You can reach me through https://www.linkedin.com/in/rodolfo-guerrero-cisterna-8841b8186
