@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 ¡Hola, soy @Ragnarwof94! 👀 Me interesa explorar nuevas tecnologías y sumergirme en el mundo del desarrollo full-stack con JavaScript, SQL y Python. 🌱 Actualmente, estoy aprendiendo full-stack JavaScript y Python para construir aplicaciones web dinámicas y robustas. 💞️ Busco colaborar en proyectos de código abierto y conectar con otros desarrolladores con mas expereiencia, y apasionados por el desarrollo full-stack y poder aprender de ellos. 😄 Pronombres: Rodo, Dani, Ragnar 👀 ⚡ Dato curioso: Soy apasionado por la música y músico autodidacta, tocando tanto la guitarra como el bajo. Mientras me dedico al desarrollo full-stack con JavaScript, siempre encuentro tiempo para explorar la naturaleza y disfrutar de sus maravillas. Cuando no estoy frente a la computadora, puedes encontrarme creando melodías o sumergiéndome en los misterios del cosmos, ya que tengo un gran interés por obaservar las estrellas. Estoy abierto a colaboraciones en proyectos intrigantes, así que no dudes en ponerte en contacto. 🎶🌌
+👋 En formación como Back-End Developer | Java, Spring Framework & AI Integration | Programa One Next Education (Oracle & Alura Latam). 🎶🌌
 
 
 ## 🌐 Socials:
