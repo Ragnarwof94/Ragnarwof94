@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 En formación como Back-End Developer | Java, Spring Framework & AI Integration | Programa One Next Education (Oracle & Alura Latam). 🎶🌌
+👋 En formación como Back-End Developer | Java, Spring Framework & AI Integration | Programa One Next Education (Oracle & Alura Latam). 🌌
 
 
 ## 🌐 Socials:
