@@ -1,5 +1,5 @@
 # 💫 About Me:
-  <br>👋 Back-End Developer jr | Java, Spring Framework & AI Integration | Programa One Next Education (Oracle & Alura Latam).🌌
+  <br>👋 Back-End Developer jr | Java, Spring Framework & AI Integration | Programa One Next Education.🌌
 
 
 ## 🌐 Socials:
