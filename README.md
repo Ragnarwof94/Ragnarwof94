@@ -74,6 +74,10 @@ programa **Oracle One Next Education**.
 ![Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7.svg?style=for-the-badge&logo=microsoft-teams&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white)
 
+### 🗂️ Organización & Productividad
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
 ### 🐧 Linux / 🪟 Windows / WSL
 ![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
 ![WSL](https://img.shields.io/badge/WSL-0a97f5.svg?style=for-the-badge&logo=linux&logoColor=white)
