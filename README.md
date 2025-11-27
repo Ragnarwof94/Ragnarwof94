@@ -21,7 +21,7 @@ programa **Oracle One Next Education**.
 - Ciberseguridad & prácticas Clean Code  
 - Integración con IA generativa  
 
-🚀 Buscando crecer en roles de **Back-End**, **Soporte TI**, o **Integración tecnológica**.
+🚀 Buscando crecer en roles de **Full Stack Dev**, **Soporte TI**, e **Integración tecnológica**.
 
 ---
 
