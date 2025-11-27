@@ -12,7 +12,7 @@
 
 🌱 **Back-End Developer Jr** en formación avanzada con **Java + Spring Framework**,  
 especializado en APIs REST, seguridad, acceso a datos y desarrollo profesional dentro del  
-programa **Oracle One Next Education**.
+programa **Oracle One Next Education** | **Oracle Cloud Infrastructure 2025 Certified Foundations Associate**.
 
 🔍 Apasionado por:  
 - Arquitectura de software  
@@ -21,7 +21,7 @@ programa **Oracle One Next Education**.
 - Ciberseguridad & prácticas Clean Code  
 - Integración con IA generativa  
 
-🚀 Buscando crecer en roles de **Full Stack Dev**, **Soporte TI**, e **Integración tecnológica**.
+🚀 Buscando crecer en roles de **Full Stack Dev**, **Soporte TI**, **Oracle Cloud Administrator** e **Integración tecnológica**.
 
 ---
 
