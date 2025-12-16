@@ -93,7 +93,6 @@ programa **Oracle One Next Education** | **Oracle Cloud Infrastructure 2025 Cert
 ![WSL](https://img.shields.io/badge/WSL-0a97f5.svg?style=for-the-badge&logo=linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
-![CentOS Stream 9](https://img.shields.io/badge/CentOS_Stream_9-262577?style=for-the-badge&logo=centos&logoColor=white)
 
 ### 🌐 Networking & Virtualization
 ![Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white)
