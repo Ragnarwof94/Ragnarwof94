@@ -8,7 +8,7 @@
 
 ---
 
-# 💫 About Me / Sobre mí
+# 💫 Sobre mí
 
 🌱 **Back-End Developer Jr** en formación avanzada con **Java + Spring Framework**,  
 especializado en APIs REST, seguridad, acceso a datos y desarrollo profesional dentro del  
@@ -21,14 +21,13 @@ programa **Oracle One Next Education** | **Oracle Cloud Infrastructure 2025 Cert
 - Ciberseguridad & prácticas Clean Code  
 - Integración con IA generativa  
 
-🚀 Buscando crecer en roles de **Full Stack Dev**, **Soporte TI**, **Oracle Cloud Administrator** e **Integración tecnológica**.
+🚀 Buscando crecer en roles de **Full Stack Dev**, **Soporte TI**, **Cloud Administrator** e **Integración tecnológica**.
 
 ---
 
 # 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rodo.guerrero.c/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodolfo-guerrero-cisterna)
-[![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ragnarwof94)
 
 ---
 
@@ -41,28 +40,15 @@ programa **Oracle One Next Education** | **Oracle Cloud Infrastructure 2025 Cert
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Popper.js](https://img.shields.io/badge/Popper.js-EE6C4D?style=for-the-badge&logo=popper.js&logoColor=white)
 
 ### ⚙️ Backend (Java & Spring)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Web](https://img.shields.io/badge/Spring%20Web-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Spring Validation](https://img.shields.io/badge/Spring%20Validation-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring DevTools](https://img.shields.io/badge/Spring%20DevTools-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 ### 🔧 Backend Extra
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Lombok](https://img.shields.io/badge/Lombok-BC2B2C?style=for-the-badge&logoColor=white)
-![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
 
 ### 🗄️ Databases
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -76,7 +62,6 @@ programa **Oracle One Next Education** | **Oracle Cloud Infrastructure 2025 Cert
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### 💬 Comunicación & Colaboración
@@ -97,7 +82,6 @@ programa **Oracle One Next Education** | **Oracle Cloud Infrastructure 2025 Cert
 ### 🌐 Networking & Virtualization
 ![Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ### 🎨 Design Tools
 ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
