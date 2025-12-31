@@ -1,21 +1,21 @@
 <!-- 🌌 HEADER -->
 <h1 align="center">👋 Hi, I'm Rodolfo Guerrero</h1>
-<h3 align="center">Back-End Developer Jr | Java & Spring Ecosystem | AI Integrator</h3>
+<h3 align="center">Full Stack Developer Trainee | Java & Spring Ecosystem | AI Integrator</h3>
 
 <p align="center">
-  🇨🇱 Valparaíso, Chile • 💻 Software Developer • 🎧 Sound Technician • 🤖 AI Enthusiast
+  🇨🇱 Valparaíso, Chile • 💻 Web Developer • 🤖 AI Enthusiast
 </p>
 
 ---
 
 # 💫 Sobre mí
 
-🌱 **Back-End Developer Jr** en formación avanzada con **Java + Spring Framework**,  
+🌱 **Full Stack Developer Trainee** en formación avanzada con **Java + Spring Framework**,  
 especializado en APIs REST, seguridad, acceso a datos y desarrollo profesional dentro del  
 programa **Oracle One Next Education** | **Oracle Cloud Infrastructure 2025 Certified Foundations Associate**.
 
 🔍 Apasionado por:  
-- Arquitectura de software  
+- Desarrollo web  
 - Patrones de diseño  
 - Bases de datos SQL  
 - Ciberseguridad & prácticas Clean Code  
